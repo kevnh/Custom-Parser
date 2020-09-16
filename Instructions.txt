@@ -1,0 +1,13 @@
+Python 3.7.4
+
+Command Format:
+python test.py [Input-File] [Output-File]
+* without [] around the arguments
+
+Example:
+python test.py test_input.txt
+
+Input-File is required
+Output-File is optional and will default to test_output.txt
+
+test.py was created for the test driver.

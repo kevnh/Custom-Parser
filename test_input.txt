@@ -1,0 +1,12 @@
+y := 3;
+x := 104;
+z := 20 / 3;
+
+if y-2 then
+	skip
+else
+	z := x / y;
+	y := 52 + y
+endif;
+
+way := 4
